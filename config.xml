@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.filmadder" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="org.shemetna-varna" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Racepoint</name>
     <description>Racepoint App</description>
     <author email="mail@yatdesign.com" href="http://yatdesign.com">yat</author>
     <content src="index.html" />
     <access origin="*" />
 	<gap:platform name="android" />
+	<gap:platform name="ios" />
 </widget>
